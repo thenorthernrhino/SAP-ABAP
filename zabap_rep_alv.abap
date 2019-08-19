@@ -7,7 +7,7 @@
 *& into ALV. "ZTEST00000000000100.
 *&---------------------------------------------------------------------*
 
-REPORT ZABAP_REP_ALV.
+REPORT ZABAP_REP_ALV. 
 
 TYPE-POOLS: slis, abap.
 
