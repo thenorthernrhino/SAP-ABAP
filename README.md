@@ -1,6 +1,5 @@
 # SAP-ABAP
- SAP ABAP Repository created by @author Ankit Kumar
- Author's email: mail2ankit85@gmail.com.
+ SAP ABAP Repository created by @author Ankit Kumar | Author's email: mail2ankit85@gmail.com | 
  Personal blog website: https://www.northernrhino.in
 
 #### What is SAP ABAP
